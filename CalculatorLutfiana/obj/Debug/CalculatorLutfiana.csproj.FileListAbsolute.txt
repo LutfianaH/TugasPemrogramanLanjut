@@ -1,0 +1,12 @@
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\bin\Debug\CalculatorLutfiana.exe.config
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\bin\Debug\CalculatorLutfiana.exe
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\bin\Debug\CalculatorLutfiana.pdb
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\obj\Debug\CalculatorLutfiana.csproj.AssemblyReference.cache
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\obj\Debug\CalculatorLutfiana.csproj.SuggestedBindingRedirects.cache
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\obj\Debug\CalculatorLutfiana.Form1.resources
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\obj\Debug\CalculatorLutfiana.Properties.Resources.resources
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\obj\Debug\CalculatorLutfiana.Proses_Kalkulator.resources
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\obj\Debug\CalculatorLutfiana.csproj.GenerateResource.cache
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\obj\Debug\CalculatorLutfiana.csproj.CoreCompileInputs.cache
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\obj\Debug\CalculatorLutfiana.exe
+E:\##TUGAS_KULIAH\TUGAS\Pemrograman Lanjut\CalculatorLutfiana\CalculatorLutfiana\obj\Debug\CalculatorLutfiana.pdb
